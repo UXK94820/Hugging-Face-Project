@@ -1,6 +1,6 @@
-AI Chat Model using Transformer Models
+###AI Chat Model using Transformer Models
 
-Project Description:
+####Project Description:
 
 Developed an advanced conversational AI chatbot leveraging state-of-the-art transformer models (Llama2-70b, Mixtral 8x7B, Llama3-8b) through Groq’s API, addressing the limitations of general-purpose chatbots. Designed and deployed a user-friendly Streamlit-based web interface with robust features including model selection, parameter customization, document context integration, and conversation management.
 
